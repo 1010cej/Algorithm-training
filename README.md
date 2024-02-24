@@ -1,2 +1,2 @@
-# myLinux_code
-> 主要是练习的linux网络编程代码
+# Algorithm training
+> 算法笔记
